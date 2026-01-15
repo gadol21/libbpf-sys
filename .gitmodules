@@ -1,6 +1,6 @@
 [submodule "src/libbpf"]
 	path = libbpf
-	url = https://github.com/Jongy/libbpf.git
+	url = https://github.com/gadol21/libbpf.git
 [submodule "elfutils"]
 	path = elfutils
 	url = https://github.com/libbpf/elfutils-mirror.git
